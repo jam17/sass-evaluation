@@ -6354,5 +6354,30 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 @media (min-height: 40.125em) {
   .picker--time .picker__box {
     margin-bottom: 5em; } }
+.nav-wrapper {
+  font-family: "Merriweather Sans", Arial, sans-serif;
+  font-size: 10px;
+  background-color: transparent;
+  color: #696969;
+  width: 100%; }
+
+nav ul a {
+  color: #696969;
+  background-color: #fff; }
+
+.blanco {
+  background-color: #fff; }
+
+#pop {
+  background-color: #ea4748; }
+
+.search {
+  background-color: #fff; }
+
+.divider {
+  color: 234, 71, 72; }
+
+.line {
+  color: 234, 71, 72; }
 
 /*# sourceMappingURL=main.css.map */

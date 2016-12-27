@@ -1,3 +1,36 @@
-.parrafo{
-	display:block;
+.nav-wrapper{
+	font-family: $tipografia;
+	font-size: $tamano-fuente;
+	background-color: $color-fondo;
+	color: $color-letra;
+	width:$width;
+}
+
+nav ul a {
+	color: $color-letra;
+	background-color: $color-nav;
+	
+}
+
+.blanco{
+	background-color: $color-nav;
+
+}
+
+
+#pop {
+	background-color:$color-botones;
+
+}
+
+.search{
+	background-color: $color-nav;
+}
+
+.divider{
+	color:$color-borde;
+}
+
+.line{
+	color:$color-borde;
 }
